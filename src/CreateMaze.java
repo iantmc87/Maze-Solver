@@ -6,7 +6,7 @@ import java.io.IOException;
 /*
  *  Author - Ian McManus
  *  Date - 14th May 2019
- *  Title - Gentrack Maze Technical Test V5
+ *  Title - Maze Solver
  */
 
 public class CreateMaze {
