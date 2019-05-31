@@ -3,7 +3,7 @@ Java Implementation of a simple maze solver
 
 This program will solve simple mazes, by reading in a maze file, solving the maze then outputting the solution.
 
-<br><b>Maze Input/Output</b>
+<b>Maze Input/Output</b>
 <br>The input is a maze description file in plain text
 <br>1 - wall
 <br>0 - passage way
@@ -27,13 +27,13 @@ Example File:
 <br>1 0 1 0 0 0 0 0 0 1
 <br>1 1 1 1 1 1 1 1 1 1
 
-The maze will show a path from start to finish
+Example Output:
+<br>The maze will show a path from start to finish
 <br># - Wall
 <br>' ' - Passage
 <br>X - Path taken
 <br>S/E - Start/End
 
-Example Output:
 <br><p>##########
 <br>#SXX     #
 <br># #X######
