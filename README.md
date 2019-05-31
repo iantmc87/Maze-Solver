@@ -3,6 +3,8 @@ Java Implementation of a simple maze solver
 
 This program will solve simple mazes, by reading in a maze file, solving the maze then outputting the solution.
 
+<hr>
+
 <b>Maze Input/Output</b>
 <br>The input is a maze description file in plain text
 <br>1 - wall
@@ -44,6 +46,8 @@ Example Output:
 <br># ###X####
 <br># #  XXXE#
 <br>##########</p>
+
+<hr>
 
 <b>Movement</b>
 <br>Valid moves are N, S, E W only, no diagonal movements are allowed.
@@ -103,6 +107,7 @@ Example of vertical wrapping:
 #XXXXXXXE#<br>
 #X########</p>
 
+<hr>
 
 <h3> How to Run </h3>
 <ul><li>Clone or download the repository</li>
