@@ -34,7 +34,7 @@ Example Output:
 <br>X - Path taken
 <br>S/E - Start/End
 
-<br><p>##########
+<p>##########
 <br>#SXX     #
 <br># #X######
 <br># #XX    #
